@@ -18,6 +18,10 @@ set(PROJECT_SOURCES
         main.cpp
         mainwindow.cpp
         mainwindow.h
+        block.h
+        block.cpp
+        tetris.h
+        tetris.cpp
         mainwindow.ui
 )
 
